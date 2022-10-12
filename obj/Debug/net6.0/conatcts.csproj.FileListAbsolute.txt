@@ -1,0 +1,15 @@
+F:\c#\conatcts\obj\Debug\net6.0\conatcts.csproj.AssemblyReference.cache
+F:\c#\conatcts\obj\Debug\net6.0\conatcts.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\conatcts\obj\Debug\net6.0\conatcts.AssemblyInfoInputs.cache
+F:\c#\conatcts\obj\Debug\net6.0\conatcts.AssemblyInfo.cs
+F:\c#\conatcts\obj\Debug\net6.0\conatcts.csproj.CoreCompileInputs.cache
+F:\c#\conatcts\bin\Debug\net6.0\conatcts.exe
+F:\c#\conatcts\bin\Debug\net6.0\conatcts.deps.json
+F:\c#\conatcts\bin\Debug\net6.0\conatcts.runtimeconfig.json
+F:\c#\conatcts\bin\Debug\net6.0\conatcts.dll
+F:\c#\conatcts\bin\Debug\net6.0\conatcts.pdb
+F:\c#\conatcts\obj\Debug\net6.0\conatcts.dll
+F:\c#\conatcts\obj\Debug\net6.0\refint\conatcts.dll
+F:\c#\conatcts\obj\Debug\net6.0\conatcts.pdb
+F:\c#\conatcts\obj\Debug\net6.0\conatcts.genruntimeconfig.cache
+F:\c#\conatcts\obj\Debug\net6.0\ref\conatcts.dll
